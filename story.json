@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "title": "My Story",
+  "version": "1.0",
+  "standfirst": "",
+  "theme": {
+    "font": "Montserrat",
+    "primaryColor": "#00007a"
+  },
+  "sections": []
+}
